@@ -4,7 +4,7 @@ import ItemStatusFilter from '../item-status-filter'
 
 const SearchPanel = (props) => {
   return ( 
-    <div class="search">
+    <div className="search">
       <input 
         className="search-input" 
         placeholder={props.searchText} 
