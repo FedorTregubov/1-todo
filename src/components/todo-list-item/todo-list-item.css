@@ -21,3 +21,8 @@
   text-decoration: line-through;
 }
 
+
+.todo-list-item.important .todo-list-item-label {
+  text-decoration: bold;
+  color: steelblue;
+}
